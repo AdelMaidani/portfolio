@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,200&display=swap");
+
+.mainDiv {
+  font-family: "Montserrat", sans-serif;
+  background-color: #2d033b;
+  color: #e5b8f4;
+}
+
+.hr {
+  border-top: 1px solid#c147e9;
+}

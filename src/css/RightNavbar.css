@@ -1,0 +1,13 @@
+.rightNavbar {
+  background-color: #810ca8;
+}
+
+.title {
+  background-color: #2d033b;
+  color: #810ca8;
+}
+
+.hover-item:hover {
+  background-color: #c147e9;
+  color: #810ca8;
+}
